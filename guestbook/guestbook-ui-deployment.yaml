@@ -5,6 +5,7 @@ metadata:
   labels:
     ax: ac
     ba: ac
+    cd: ac
 spec:
   replicas: 1
   revisionHistoryLimit: 3
