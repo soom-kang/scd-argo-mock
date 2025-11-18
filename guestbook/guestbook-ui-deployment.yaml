@@ -4,6 +4,7 @@ metadata:
   name: guestbook-ui-deployment
   labels:
     ax: ac
+    ba: ac
 spec:
   replicas: 1
   revisionHistoryLimit: 3
