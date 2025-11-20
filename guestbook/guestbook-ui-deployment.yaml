@@ -6,6 +6,7 @@ metadata:
     ax: ac
     ba: ac
     cd: ac
+    ef: ac
 spec:
   replicas: 1
   revisionHistoryLimit: 3
